@@ -11,19 +11,27 @@ Python is the language used.
 
 Screenshots:
 1. Person detected as drowsy:
+
 ![image](https://github.com/user-attachments/assets/9dacde25-266f-44a0-86b0-fb35ad132d2b)
 
 2. Image uploaded to AWS S3
-![image](https://github.com/user-attachments/assets/465e8e9f-3a5f-43fc-af83-0e0f9af6fc06)
+
+![image](https://github.com/user-attachments/assets/a577a746-a9b5-441f-b78d-a9e5479afdbb)
 
 3. License plate details extracted
-![image](https://github.com/user-attachments/assets/406bb28c-08b9-4149-bf40-6163d67d5d62)
+   
+![image](https://github.com/user-attachments/assets/5786be4d-4ec0-4764-82d4-75c68fb9dbb4)
 
 4. Contact details found in AWS DynamoDB
-![image](https://github.com/user-attachments/assets/d4da112e-ea3f-4eb1-91a1-727f5be54deb)
-![image](https://github.com/user-attachments/assets/919182f3-14a9-4e4f-8176-0ad3b945bba8)
+
+![image](https://github.com/user-attachments/assets/e17bf5cc-76c2-489f-b52b-ebeae4782759)
+
+![image](https://github.com/user-attachments/assets/2d010390-73d7-4765-b9ed-16df9f98a95b)
 
 5. Alert notification sent via AWS SNS
-![image](https://github.com/user-attachments/assets/206fadf0-6fcb-4b88-abdc-18d4fa206fb5)
-![image](https://github.com/user-attachments/assets/e6d9810e-4ac4-4b4a-a722-0d74362fa3fb)
+
+![image](https://github.com/user-attachments/assets/354c8510-849b-42a5-b9d6-a3eeb46b437e)
+
+![image](https://github.com/user-attachments/assets/261b3c84-a00c-46e4-b3df-900189d9d3d4)
+
 ![image](https://github.com/user-attachments/assets/08cebbe6-df0d-42f5-a683-84cc4fe035cb)
